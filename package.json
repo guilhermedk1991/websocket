@@ -1,5 +1,5 @@
 {
-  "name": "05-chat-nodejs-socket-io",
+  "name": "websocket-noite",
   "version": "1.0.0",
   "description": "Web chat utilizando nodejs. Com Node.js podemos usar JavaScript no lado servidor e no cliente. A aplicação utiliza WebSockets com a biblioteca http://socket.io para implementar o chat.",
   "main": "index.js",
